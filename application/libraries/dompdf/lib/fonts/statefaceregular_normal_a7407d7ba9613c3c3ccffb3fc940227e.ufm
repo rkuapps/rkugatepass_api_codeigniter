@@ -1,0 +1,98 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright © 2012 ProPublica. See LICENSE file for redistribution details.
+FontName StateFace
+FontSubfamily Regular
+UniqueID 1.100;UKWN;StateFace-Regular
+FullName StateFace Regular
+Version Version 1.100;PS 001.100;hotconv 1.0.56;makeotf.lib2.0.21325
+PostScriptName StateFace-Regular
+Manufacturer USGS
+Designer ProPublica
+FontDesignerURL http://www.github.com/propublica/stateface/
+CompatibleFullName StateFace Regular
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -75
+FontHeightOffset 0
+Ascender 813
+Descender -106
+FontBBox -376 -87 1350 813
+StartCharMetrics 72
+U 0 ; WX 1000 ; N glyph1 ; G 1
+U 13 ; WX 1000 ; N uni000D ; G 2
+U 32 ; WX 600 ; N space ; G 3
+U 51 ; WX 1200 ; N three ; G 4
+U 65 ; WX 1228 ; N A ; G 5
+U 66 ; WX 592 ; N B ; G 6
+U 67 ; WX 946 ; N C ; G 7
+U 68 ; WX 737 ; N D ; G 8
+U 69 ; WX 841 ; N E ; G 9
+U 70 ; WX 1142 ; N F ; G 10
+U 71 ; WX 1176 ; N G ; G 11
+U 72 ; WX 420 ; N H ; G 12
+U 73 ; WX 910 ; N I ; G 13
+U 74 ; WX 755 ; N J ; G 14
+U 75 ; WX 1367 ; N K ; G 15
+U 76 ; WX 1022 ; N L ; G 16
+U 77 ; WX 601 ; N M ; G 17
+U 78 ; WX 550 ; N N ; G 18
+U 79 ; WX 635 ; N O ; G 19
+U 80 ; WX 1222 ; N P ; G 20
+U 81 ; WX 1162 ; N Q ; G 21
+U 82 ; WX 994 ; N R ; G 22
+U 83 ; WX 1400 ; N S ; G 23
+U 84 ; WX 1256 ; N T ; G 24
+U 85 ; WX 652 ; N U ; G 25
+U 86 ; WX 896 ; N V ; G 26
+U 87 ; WX 803 ; N W ; G 27
+U 88 ; WX 1008 ; N X ; G 28
+U 89 ; WX 610 ; N Y ; G 29
+U 90 ; WX 1142 ; N Z ; G 30
+U 97 ; WX 1300 ; N a ; G 31
+U 98 ; WX 1106 ; N b ; G 32
+U 99 ; WX 1122 ; N c ; G 33
+U 100 ; WX 517 ; N d ; G 34
+U 101 ; WX 529 ; N e ; G 35
+U 102 ; WX 772 ; N f ; G 36
+U 103 ; WX 623 ; N g ; G 37
+U 104 ; WX 1152 ; N h ; G 38
+U 105 ; WX 795 ; N i ; G 39
+U 106 ; WX 1124 ; N j ; G 40
+U 107 ; WX 784 ; N k ; G 41
+U 108 ; WX 972 ; N l ; G 42
+U 109 ; WX 594 ; N m ; G 43
+U 110 ; WX 1058 ; N n ; G 44
+U 111 ; WX 914 ; N o ; G 45
+U 112 ; WX 1300 ; N p ; G 46
+U 113 ; WX 1024 ; N q ; G 47
+U 114 ; WX 696 ; N r ; G 48
+U 115 ; WX 1150 ; N s ; G 49
+U 116 ; WX 581 ; N t ; G 50
+U 117 ; WX 1104 ; N u ; G 51
+U 118 ; WX 842 ; N v ; G 52
+U 119 ; WX 1018 ; N w ; G 53
+U 120 ; WX 1056 ; N x ; G 54
+U 121 ; WX 755 ; N y ; G 55
+U 122 ; WX 1232 ; N z ; G 56
+U 160 ; WX 600 ; N uni00A0 ; G 57
+U 8192 ; WX 406 ; N uni2000 ; G 58
+U 8193 ; WX 813 ; N uni2001 ; G 59
+U 8194 ; WX 406 ; N uni2002 ; G 60
+U 8195 ; WX 813 ; N uni2003 ; G 61
+U 8196 ; WX 271 ; N uni2004 ; G 62
+U 8197 ; WX 203 ; N uni2005 ; G 63
+U 8198 ; WX 135 ; N uni2006 ; G 64
+U 8199 ; WX 135 ; N uni2007 ; G 65
+U 8200 ; WX 102 ; N uni2008 ; G 66
+U 8201 ; WX 163 ; N uni2009 ; G 67
+U 8202 ; WX 45 ; N uni200A ; G 68
+U 8239 ; WX 163 ; N uni202F ; G 69
+U 8287 ; WX 203 ; N uni205F ; G 70
+U 57344 ; WX 750 ; N uniE000 ; G 71
+EndCharMetrics
+EndFontMetrics

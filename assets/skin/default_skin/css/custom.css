@@ -1,0 +1,254 @@
+.bg-system {
+    background-color: #CF0000 !important;
+    color: #cef1e8;
+}
+
+.bg-system.dark {
+    background-color: #AB0000 !important;
+}
+
+.sidebar-menu .sidebar-label {
+    color: #CF0000;
+}
+
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus {
+    z-index: 3;
+    color: #fff;
+    background-color: #CF0000;
+    border-color: #CF0000;
+    cursor: default;
+}
+
+.sidebar-menu>li>ul>li.active>a>span:nth-child(1),
+.sidebar-menu>li>ul>li>a.menu-open>span:nth-child(1) {
+    color: #CF0000;
+}
+
+.sidebar-menu>li.active>a>span:nth-child(1) {
+    color: #CF0000;
+}
+
+.badge-success {
+    background-color: #CF0000;
+}
+
+.navbar.bg-system .nav>li.open>a,
+.navbar.bg-system .nav>li:hover>a,
+.navbar.bg-system .nav>li:focus>a,
+.navbar.bg-system .nav>li.active>a,
+.navbar.bg-system .nav>li>a:hover,
+.navbar.bg-system .nav>li>a:focus {
+    color: #FFF;
+    background-color: #AB0000;
+}
+
+.navbar.bg-system .nav>li.dropdown.open .dropdown-menu,
+.navbar.bg-system .nav>li.dropdown .open .dropdown-menu {
+    border-top-color: #CF0000;
+}
+
+.navbar.bg-system .nav>li.dropdown.open .dropdown-menu:after,
+.navbar.bg-system .nav>li.dropdown .open .dropdown-menu:after {
+    border-bottom-color: #CF0000;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #CF0000;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #AB0000;
+    border-color: rgba(0, 0, 0, 0.05);
+}
+
+a {
+    color: #CF0000;
+    text-decoration: none;
+}
+
+.panel-tabs.panel-tabs-border>li.active>a {
+    margin-top: -1px;
+    border-top: 2px solid #CF0000;
+}
+
+.table>thead>tr>td.primary,
+.table>tbody>tr>td.primary,
+.table>tfoot>tr>td.primary,
+.table>thead>tr>th.primary,
+.table>tbody>tr>th.primary,
+.table>tfoot>tr>th.primary,
+.table>thead>tr.primary>td,
+.table>tbody>tr.primary>td,
+.table>tfoot>tr.primary>td,
+.table>thead>tr.primary>th,
+.table>tbody>tr.primary>th,
+.table>tfoot>tr.primary>th {
+    color: #AB0000;
+    border-color: #CF0000;
+    background-color: #d9f293;
+}
+
+.admin-form.theme-primary .section-divider span {
+    color: #CF0000;
+}
+
+.badge-primary {
+    background-color: #CF0000;
+}
+
+.btn-info:hover,
+.btn-info:focus,
+.btn-info:active,
+.btn-info.active,
+.open>.dropdown-toggle.btn-info {
+    color: #fff;
+    background-color: #AB0000;
+    border-color: rgba(0, 0, 0, 0.05);
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #CF0000;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #CF0000;
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active,
+.open>.dropdown-toggle.btn-success {
+    color: #fff;
+    background-color: #AB0000;
+    border-color: rgba(0, 0, 0, 0.05);
+}
+
+#topbar .nav.nav-list-topbar li.active a {
+    border-bottom: 3px solid #CF0000;
+}
+
+.input-group-addon {
+    color: #CF0000;
+    background-color: #fafafa;
+    border-color: #DDD;
+}
+
+.panel-controls>a {
+    display: none !important;
+}
+
+body.sb-l-m .sidebar-menu>li.active>a>span:nth-child(1) {
+    color: #CF0000;
+}
+
+.admin-form.theme-success .section-divider span {
+    color: #CF0000;
+}
+
+.table>thead>tr>td.success,
+.table>tbody>tr>td.success,
+.table>tfoot>tr>td.success,
+.table>thead>tr>th.success,
+.table>tbody>tr>th.success,
+.table>tfoot>tr>th.success,
+.table>thead>tr.success>td,
+.table>tbody>tr.success>td,
+.table>tfoot>tr.success>td,
+.table>thead>tr.success>th,
+.table>tbody>tr.success>th,
+.table>tfoot>tr.success>th {
+    color: #AB0000;
+    border-color: #CF0000;
+    background-color: #d9f293;
+}
+
+.admin-form .btn-info {
+    background-color: #CF0000;
+}
+
+.admin-form .btn-info:hover,
+.admin-form .btn-info:focus {
+    background-color: #AB0000;
+    border-color: #AB0000;
+}
+
+.nano.affix.nano-primary>.nano-pane>.nano-slider {
+    background: #CF0000 !important;
+}
+
+.text-info {
+    color: #CF0000;
+}
+
+.admin-form .panel-info>.panel-heading {
+    border-top-color: #CF0000;
+}
+
+.admin-form .panel-info.heading-border:before,
+.admin-form .panel-info .heading-border:before {
+    background-color: #CF0000;
+}
+
+.admin-form .btn-primary:active {
+    background-color: #AB0000;
+}
+
+.admin-form .btn-primary:hover,
+.admin-form .btn-primary:focus {
+    background-color: #AB0000;
+    border-color: #AB0000;
+}
+
+.admin-form .btn-primary {
+    background-color: #CF0000;
+}
+
+.admin-form.theme-info .gui-input:focus,
+.admin-form.theme-info .gui-textarea:focus,
+.admin-form.theme-info .select>select:focus,
+.admin-form.theme-info .select-multiple select:focus {
+    border-color: #CF0000;
+    color: #3C3C3C;
+}
+
+.admin-form .append-icon .field-icon,
+.admin-form .prepend-icon .field-icon {
+    top: 0;
+    z-index: 4;
+    width: 42px;
+    height: 42px;
+    color: #CF0000 !important;
+    line-height: 42px;
+    position: absolute;
+    text-align: center;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -ms-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+    pointer-events: none;
+}
+
+.admin-form.theme-info .gui-input:hover,
+.admin-form.theme-info .gui-textarea:hover,
+.admin-form.theme-info .select>select:hover,
+.admin-form.theme-info .select-multiple select:hover,
+.admin-form.theme-info .gui-input:hover~.input-footer,
+.admin-form.theme-info .file .gui-file:hover+.gui-input,
+.admin-form.theme-info .gui-textarea:hover~.input-footer {
+    border-color: #CF0000;
+}
